@@ -3,6 +3,7 @@
   "displayName": "first-extension",
   "description": "My first extension",
   "version": "0.0.1",
+  "publisher": "strisys",
   "engines": {
     "vscode": "^1.93.0"
   },
